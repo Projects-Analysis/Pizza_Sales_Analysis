@@ -108,7 +108,7 @@ This project dives deep into the sales data of a pizza restaurant, offering valu
 - Introduce seasonal promotions or limited-time offers to create excitement and boost sales for specific pizzas.
 - Align promotional activities with customer preferences during different seasons.
 
-## Conclusion:
+## Conclusion
 In conclusion, the Pizza Sales Analysis project has provided valuable insights into the performance and dynamics of the pizza business. By examining key metrics such as pizza category distribution, size impact, quantity sold, order patterns, and top/bottom performers, we have identified areas of strength and areas that may benefit from strategic adjustments.
 
 The analysis revealed the dominance of Classic and Supreme pizza categories, contributing significantly to overall sales. Large-sized pizzas emerged as customer favorites, emphasizing the importance of catering to popular preferences. Understanding the temporal aspects of order patterns, such as peak times and day-specific trends, offers opportunities for targeted marketing and operational enhancements.
